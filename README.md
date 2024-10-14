@@ -1,3 +1,2 @@
 # widgets_app
-
-A new Flutter project.
+A flutter App that show Differents widgets of Flutter
